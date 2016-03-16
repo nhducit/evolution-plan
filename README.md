@@ -22,4 +22,5 @@ Object.create?
 
 - [ ] ES2015
 
-- ...
+- [ ] Redux
+understand what is Redux, it's architecture
