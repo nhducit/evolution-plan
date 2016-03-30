@@ -25,3 +25,6 @@ Object.create?
 - [ ] Redux
 
 understand what is Redux, it's architecture
+
+- [ ] OOP
+- [ ] SOLID - OOP
